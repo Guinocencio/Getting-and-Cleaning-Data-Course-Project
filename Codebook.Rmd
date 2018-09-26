@@ -23,7 +23,7 @@ Identificadores
 ``Atividade`` - É o tipo de atividade relacionada as medidas correspondentes que foram tomadas.
 
 
-Medições
+Medições:
 
 * `tBodyAccMeanX`
 
